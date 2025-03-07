@@ -1,0 +1,6 @@
+<!-- res/drawable/rectangle_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#6200EE" /> <!-- Цвет фона, можно изменить -->
+    <corners android:radius="0dp" /> <!-- Прямоугольные углы -->
+    <stroke android:color="#B0B0B0" android:width="3dp" /> <!-- Серая обводка с шириной 2dp -->
+</shape>
