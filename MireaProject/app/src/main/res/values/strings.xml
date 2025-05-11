@@ -12,6 +12,7 @@
     <string name="menu_slideshow">Slideshow</string>
     <string name="brouser">Browser</string>
     <string name="nav_data">Лев</string>
+    <string name="nav_back">Back</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
