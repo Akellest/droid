@@ -13,6 +13,9 @@
     <string name="brouser">Browser</string>
     <string name="nav_data">Лев</string>
     <string name="nav_back">Back</string>
+    <string name="menu_sensor">Датчики</string>
+    <string name="menu_camera">Камера</string>
+    <string name="menu_microphone">Микрофон</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

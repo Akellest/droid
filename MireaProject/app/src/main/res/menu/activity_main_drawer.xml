@@ -31,5 +31,21 @@
             android:id="@+id/nav_back"
             android:icon="@drawable/ic_menu_camera"
             android:title="@string/nav_back" />
+
+        <item
+            android:id="@+id/nav_sensor"
+            android:icon="@drawable/ic_sensor"
+            android:title="Датчики" />
+
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_camera"
+            android:title="Камера" />
+
+        <item
+            android:id="@+id/nav_microphone"
+            android:icon="@drawable/ic_microphone"
+            android:title="Микрофон" />
+
     </group>
 </menu>

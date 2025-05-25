@@ -37,4 +37,23 @@
         android:name="ru.mirea.lamzin.mireaproject.BackgroundTaskFragment"
         android:label="fragment_back"
         tools:layout="@layout/fragment_background_task" />
+
+    <fragment
+        android:id="@+id/nav_sensor"
+        android:name="ru.mirea.lamzin.mireaproject.SensorFragment"
+        android:label="Sensor"
+        tools:layout="@layout/fragment_sensor" />
+
+    <fragment
+        android:id="@+id/nav_camera"
+        android:name="ru.mirea.lamzin.mireaproject.CameraFragment"
+        android:label="Camera"
+        tools:layout="@layout/fragment_camera" />
+
+    <fragment
+        android:id="@+id/nav_microphone"
+        android:name="ru.mirea.lamzin.mireaproject.MicrophoneFragment"
+        android:label="Microphone"
+        tools:layout="@layout/fragment_microphone" />
+
 </navigation>
