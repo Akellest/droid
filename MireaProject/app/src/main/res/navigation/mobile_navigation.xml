@@ -56,4 +56,16 @@
         android:label="Microphone"
         tools:layout="@layout/fragment_microphone" />
 
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="ru.mirea.lamzin.mireaproject.ProfileFragment"
+        android:label="Профиль"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_file"
+        android:name="ru.mirea.lamzin.mireaproject.FileFragment"
+        android:label="Работа с файлами"
+        tools:layout="@layout/fragment_file" />
+
 </navigation>

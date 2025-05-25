@@ -16,6 +16,9 @@
     <string name="menu_sensor">Датчики</string>
     <string name="menu_camera">Камера</string>
     <string name="menu_microphone">Микрофон</string>
+    <string name="menu_profile">Профиль</string>
+    <string name="menu_file">Работа с файлами</string>
+    <string name="fab_add_description">Добавить</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
