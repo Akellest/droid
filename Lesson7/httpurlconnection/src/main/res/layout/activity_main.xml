@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="700px"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <Button
+            android:id="@+id/buttonLoad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Загрузить IP и погоду" />
+
+        <TextView
+            android:id="@+id/textIp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:text="IP:"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textCity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Город:" />
+
+        <TextView
+            android:id="@+id/textRegion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Регион:" />
+
+        <TextView
+            android:id="@+id/textCountry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Страна:" />
+
+        <TextView
+            android:id="@+id/textPostal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Почтовый индекс:" />
+
+        <TextView
+            android:id="@+id/textTimezone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Часовой пояс:" />
+
+        <TextView
+            android:id="@+id/textWeather"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:text="Погода:" />
+
+    </LinearLayout>
+</FrameLayout>

@@ -51,11 +51,21 @@
             android:id="@+id/nav_profile"
             android:icon="@drawable/ic_profile"
             android:title="Профиль" />
+
         <item
             android:id="@+id/nav_file"
             android:icon="@drawable/ic_file"
             android:title="Работа с файлами" />
 
+        <item
+            android:id="@+id/firebaseAuthFragment"
+            android:icon="@drawable/ic_file"
+            android:title="Firebase" />
+
+        <item
+            android:id="@+id/network"
+            android:icon="@drawable/ic_file"
+            android:title="Network Fragment For Firebase" />
 
     </group>
 </menu>
